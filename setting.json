@@ -16,7 +16,7 @@
 		},
 		"app_update": {
 			"is_popup_dialog": true,
-			"is_update_require": false,
+			"is_update_require": true,
 			"package_id": "com.iptv.m3u.playlists",
 			"website_url": "playstore url",
 			"is_system_browser": true,
