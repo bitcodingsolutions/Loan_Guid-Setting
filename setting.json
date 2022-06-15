@@ -2,7 +2,7 @@
 	"com.getspeedloan.fastloan": {
 		
 		"ads_sequence": [
-			"google_ads"
+			
 		],
 		
 		"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
@@ -15,7 +15,7 @@
 			"interstitial_ad_time_interval": 0
 		},
 		"app_update": {
-			"is_popup_dialog": false,
+			"is_popup_dialog": true,
 			"is_update_require": true,
 			"package_id": "com.iptv.m3u.playlists",
 			"website_url": "playstore url",
